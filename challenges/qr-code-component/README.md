@@ -26,8 +26,8 @@ This is my result:
 
 ### Links
 
-- [QR code component - Solution]()
-- [QR code component - Live Site]()
+- [QR code component - Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-N6dlrxMgaG)
+- [QR code component - Live Site](https://qr-code-component-pearl.vercel.app/)
 
 ## My process
 
