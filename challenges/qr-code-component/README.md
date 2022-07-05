@@ -39,7 +39,7 @@ Getting into the more complicated part of the challenge (styling the component i
 
 ### Built with
 
-- HTML5 Ma
+- HTML5
 - CSS3
 
 ### What I learned
