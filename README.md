@@ -20,3 +20,4 @@ This is a table to improve the navegation between the challenges:
 
 | Project Live Server | Repo Link |
 |---------------------|-----------|
+| [QR Code Component](https://qr-code-component-miguelbcodes.vercel.app/) | [Click Here](https://github.com/miguelbcodes/Frontend-Mentor-Challenges/tree/main/challenges/qr-code-component) |
