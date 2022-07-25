@@ -27,8 +27,8 @@ My solution:
 
 ### Links
 
-- [Product preview card component - Solution]()
-- [Product preview card component - Live Site]()
+- [Product preview card component - Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-html-and-css-hfcenepXSS)
+- [Product preview card component - Live Site](https://product-preview-card-component-miguelbcodes.vercel.app/)
 
 ## My process
 
